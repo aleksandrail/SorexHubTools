@@ -1,0 +1,16 @@
+version: 1.0
+name: SorexProtect
+main: org.aleksandrail.protect.Main
+author: aleksandrail
+description: SorexProtection :D!
+
+commands:
+  discord:
+    aliases: [dc, disc]
+    description: Discord of the server.
+  teamspeak:
+    aliases: [teamspeak3, ts, ts3]
+    description: TeamSpeak of the server.
+  Twitter:
+    description: Twitter of the server.       
+    
